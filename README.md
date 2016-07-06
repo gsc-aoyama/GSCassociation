@@ -12,14 +12,14 @@
 - An Application of Blended Learning for English Medium Instruction Programs at Universities in Japan ..... Hisayo Kikuchi
 
 ## 【シンポジウム】
-- 地球社会共生学部 開設記念シンポジウム『地球共生を仕事とする』  
+地球社会共生学部 開設記念シンポジウム『地球共生を仕事とする』  
+
+### 登壇者
 - 赤阪 清隆(元国連事務次長)
 - 高瀬 昇太(株式会社 Wincam 社長)
 - 吉岡 利代(国際人権 NGOヒューマン・ライツ・ウォッチ・シニア・プログラム オフィサー)  
 - 会田 弘継(地球社会共生学部 教授)
 
 
-
 ![地球社会共生論集表紙](https://cloud.githubusercontent.com/assets/416977/15894284/05bb03de-2dc0-11e6-8518-1b0a9ff8401d.png)
-
 
