@@ -12,10 +12,10 @@
 
 
 ## 【研究ノート】
-- An Application of Blended Learning for English Medium Instruction Programs at Universities in Japan：Hisayo Kikuchi（© Hisayo Kikuchi, GSC,Aoyama Gakuin University. CC BY 4.0）
+-  [An Application of Blended Learning for English Medium Instruction Programs at Universities in Japan：Hisayo Kikuchi](https://github.com/gsc-aoyama/GSCassociation/blob/master/2015/%E5%9C%B0%E7%90%83%E7%A4%BE%E4%BC%9A%E5%85%B1%E7%94%9F%E8%AB%96%E9%9B%86_%E5%89%B5%E5%88%8A%E5%8F%B7_hiyasyo_kikuchi_ccby40.pdf)（© Hisayo Kikuchi, GSC,Aoyama Gakuin University. CC BY 4.0）
 
 ## 【シンポジウム】
-地球社会共生学部 開設記念シンポジウム『地球共生を仕事とする』  
+ [地球社会共生学部 開設記念シンポジウム『地球共生を仕事とする』](https://github.com/gsc-aoyama/GSCassociation/blob/master/2015/%E5%9C%B0%E7%90%83%E7%A4%BE%E4%BC%9A%E5%85%B1%E7%94%9F%E8%AB%96%E9%9B%86_%E5%89%B5%E5%88%8A%E5%8F%B7_%E5%9C%B0%E7%90%83%E7%A4%BE%E4%BC%9A%E5%85%B1%E7%94%9F%E5%AD%A6%E9%83%A8_%E9%96%8B%E8%A8%AD%E8%A8%98%E5%BF%B5%E3%82%B7%E3%83%B3%E3%83%9B%E3%82%9A%E3%82%B7%E3%82%99%E3%82%A6%E3%83%A0_ccby40.pdf)（© GSC,Aoyama Gakuin University. CC BY 4.0） 
 
 ### 登壇者
 - 赤阪 清隆(元国連事務次長)
