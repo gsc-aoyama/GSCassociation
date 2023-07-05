@@ -1,5 +1,5 @@
 # 地球社会共生論集
-![地球社会共生論集表紙](https://cloud.githubusercontent.com/assets/416977/15894284/05bb03de-2dc0-11e6-8518-1b0a9ff8401d.png)
+[<img src="https://cloud.githubusercontent.com/assets/416977/15894284/05bb03de-2dc0-11e6-8518-1b0a9ff8401d.png" width="400" alt="地球社会共生論集表紙">](https://ci.nii.ac.jp/ncid/AA12752326)
 
 **[青山地球社会共生論集 on CiNii](https://ci.nii.ac.jp/ncid/AA12752326)**
 
