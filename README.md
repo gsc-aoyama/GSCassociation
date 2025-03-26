@@ -17,6 +17,8 @@
 [全文PDF(ISSN 2432-1397)](https://github.com/gsc-aoyama/GSCassociation/blob/master/2022/%E9%9D%92%E5%B1%B1%E5%9C%B0%E7%90%83%E7%A4%BE%E4%BC%9A%E5%85%B1%E7%94%9F%E8%AB%96%E9%9B%86_7%E5%8F%B7.pdf)
 ### [2023年度](https://github.com/gsc-aoyama/GSCassociation/tree/master/2023)
 [全文PDF(ISSN 2432-1397)](https://github.com/gsc-aoyama/GSCassociation/blob/master/2023/%E9%9D%92%E5%B1%B1%E5%9C%B0%E7%90%83%E7%A4%BE%E4%BC%9A%E5%85%B1%E7%94%9F%E8%AB%96%E9%9B%86_8%E5%8F%B7.pdf)
+### [2024年度](https://github.com/gsc-aoyama/GSCassociation/tree/master/2024)
+[全文PDF(ISSN 2432-1397)](https://github.com/gsc-aoyama/GSCassociation/blob/master/2024/%E5%9C%B0%E7%90%83%E7%A4%BE%E4%BC%9A%E5%85%B1%E7%94%9F%E8%AB%96%E9%9B%86%E7%AC%AC9%E5%8F%B7.pdf)
 
 ---
 
